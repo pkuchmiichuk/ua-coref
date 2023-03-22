@@ -1,0 +1,6 @@
+jsonlines==3.1.0
+sentencepiece==0.1.97
+tokenize_uk==0.2.0
+torch==1.13.1
+tqdm==4.64.1
+transformers==4.26.0
