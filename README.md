@@ -85,7 +85,20 @@ Data and code improvements are welcome. Please submit a pull request.
 
 ## Citation
 
-TBA
+```
+@inproceedings{kuchmiichuk-2023-silver,
+    title = "Silver Data for Coreference Resolution in {U}krainian: Translation, Alignment, and Projection",
+    author = "Kuchmiichuk, Pavlo",
+    booktitle = "Proceedings of the Second Ukrainian Natural Language Processing Workshop (UNLP)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.unlp-1.8",
+    pages = "62--72",
+    abstract = "Low-resource languages continue to present challenges for current NLP methods, and multilingual NLP is gaining attention in the research community. One of the main issues is the lack of sufficient high-quality annotated data for low-resource languages. In this paper, we show how labeled data for high-resource languages such as English can be used in low-resource NLP. We present two silver datasets for coreference resolution in Ukrainian, adapted from existing English data by manual translation and machine translation in combination with automatic alignment and annotation projection. The code is made publicly available.",
+}
+```
 
 ## Contacts
 
